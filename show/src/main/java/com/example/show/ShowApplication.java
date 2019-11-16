@@ -9,6 +9,7 @@ public class ShowApplication {
     public static void main(String[] args)
     {
        // System.out.println("main");
+        int age=100;
         SpringApplication.run(ShowApplication.class, args);
     }
 
